@@ -1,0 +1,28 @@
+c:\visualstudio\Projects\geometric\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\visualstudio\Projects\geometric\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+C:\visualstudio\Projects\geometric\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\visualstudio\Projects\geometric\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.dll
+C:\visualstudio\Projects\geometric\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\visualstudio\Projects\geometric\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\visualstudio\Projects\geometric\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+C:\visualstudio\Projects\geometric\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\visualstudio\Projects\geometric\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.xml
+C:\visualstudio\Projects\geometric\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CustomerSQLite.Properties.Resources.resources
+C:\visualstudio\Projects\geometric\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CustomerSQLite.Form2.resources
+C:\visualstudio\Projects\geometric\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CustomerSQLite.UserControl1.resources
+C:\visualstudio\Projects\geometric\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\visualstudio\Projects\geometric\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\visualstudio\Projects\geometric\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Data.DataSetExtensions.dll
+C:\visualstudio\Projects\geometric\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\SQLite.Interop.dll
+C:\visualstudio\Projects\geometric\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\TowJax 2.0.exe.config
+C:\visualstudio\Projects\geometric\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\TowJax 2.0.exe.manifest
+C:\visualstudio\Projects\geometric\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\TowJax 2.0.application
+C:\visualstudio\Projects\geometric\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\TowJax 2.0.exe
+C:\visualstudio\Projects\geometric\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\TowJax 2.0.pdb
+C:\visualstudio\Projects\geometric\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\TowJax 2.0.exe.CodeAnalysisLog.xml
+C:\visualstudio\Projects\geometric\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\TowJax 2.0.exe.lastcodeanalysissucceeded
+C:\visualstudio\Projects\geometric\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\TowJax 2.0.TrustInfo.xml
+C:\visualstudio\Projects\geometric\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\TowJax 2.0.exe.manifest
+C:\visualstudio\Projects\geometric\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\TowJax 2.0.application
+C:\visualstudio\Projects\geometric\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\TowJax 2.0.exe
+C:\visualstudio\Projects\geometric\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\TowJax 2.0.pdb
